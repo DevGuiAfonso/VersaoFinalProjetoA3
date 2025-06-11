@@ -4,6 +4,7 @@
 # 3. Crie um novo banco de dados com o nome "sistemadeeventos".
 # 4. Execute o seguinte comando SQL para criar a tabela "eventos"
 
+
 # CREATE TABLE evento (
 #    id INT AUTO_INCREMENT PRIMARY KEY,
 #    nome VARCHAR(100) NOT NULL,
@@ -14,5 +15,6 @@
 #    descricao TEXT,
 #    dataHora DATETIME NOT NULL
 #);
+
 
 # 5. Insira alguns dados de exemplo na tabela "eventos" 
